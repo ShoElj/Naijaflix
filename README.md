@@ -17,7 +17,7 @@ Responsive Design: A beautiful and functional layout that works on all devices, 
 Powered by TMDB: All data is fetched from The Movie Database (TMDB) API.
 
 🚀 Live Demo
-[You can add your Vercel/Netlify deployment link here once it's live!]
+https://naijaflix-psi.vercel.app/
 
 🛠️ Getting Started
 To run this project locally, simply download the project folder and open the index.html file in your web browser.
